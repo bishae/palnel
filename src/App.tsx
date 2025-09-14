@@ -716,7 +716,7 @@ export default function App() {
 								<a
 									href="https://twitter.com/palnel"
 									className="text-gray-400 hover:text-white transition-colors"
-									aria-label="Twitter"
+									aria-label="Follow us on Twitter"
 								>
 									<svg
 										className="w-6 h-6"
@@ -731,7 +731,7 @@ export default function App() {
 								<a
 									href="https://linkedin.com/company/palnel"
 									className="text-gray-400 hover:text-white transition-colors"
-									aria-label="LinkedIn"
+									aria-label="Connect with us on LinkedIn"
 								>
 									<svg
 										className="w-6 h-6"
