@@ -518,8 +518,10 @@ export default function App() {
 										</svg>
 									</div>
 									<div>
-										<p className="font-semibold text-gray-900">Phone</p>
-										<p className="text-gray-600">+1 (555) 123-4567</p>
+										<p className="font-semibold text-gray-900">
+											Phone/WhatsApp
+										</p>
+										<p className="text-gray-600">+971585020412</p>
 									</div>
 								</div>
 								<div className="flex items-center">
